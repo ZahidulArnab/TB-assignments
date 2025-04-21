@@ -2,6 +2,9 @@
 
 I made a simple rocket and moon using only print statements with python.
 
+Rocket Inspiration ![Rocket](rocket.jpg)
+
+
 ````python
 print("       /\                              ___  ")
 print("      |==|                            /   \ ")
