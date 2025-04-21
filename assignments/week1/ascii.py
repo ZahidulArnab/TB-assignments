@@ -1,8 +1,3 @@
-# TB-assignments 1 ASCII Art Rocket
-
-I made a simple rocket and moon using only print statements with python.
-
-````python
 print("       /\                              ___  ")
 print("      |==|                            /   \ ")
 print("      |  |                           |     |")
